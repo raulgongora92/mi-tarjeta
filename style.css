@@ -13,3 +13,9 @@ body {
   box-shadow: 2px 2px 12px #aaa;
   text-align: center;
 }
+
+.contacto {
+  margin-top: 30px;
+  padding-top: 15px;
+  border-top: 1px solid #ccc;
+}
